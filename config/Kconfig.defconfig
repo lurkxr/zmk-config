@@ -1,0 +1,7 @@
+
+if SHIELD_REVIUNG41
+
+config ZMK_KEYBOARD_NAME
+    default "Reviung5"
+
+endif
