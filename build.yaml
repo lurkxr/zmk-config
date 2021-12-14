@@ -17,4 +17,4 @@ include:
     shield: reviung41
     features:
   - keys
-  - display
+  - encoder
