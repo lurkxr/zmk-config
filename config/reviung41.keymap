@@ -3,7 +3,9 @@
 #include <dt-bindings/zmk/bt.h>
 
 / {
-
+encode {
+	status = "okay";
+};
 	sensors {
 		compatible = "zmk,keymap-sensors";
 		sensors = <encoder>;
