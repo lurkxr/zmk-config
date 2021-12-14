@@ -9,4 +9,8 @@
 		    resolution = <4>;
 		    status = "okay";
 	   };
+	   
+	   &left_encoder {
+    status = "okay";
+	};
   };
