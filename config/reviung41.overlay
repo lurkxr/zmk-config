@@ -13,4 +13,9 @@
 	   encoder {
     status = "okay";
 	};
+	
+	sensors {
+        compatible = "zmk,keymap-sensors";
+        sensors = <&encoder>;
+    };
   };
